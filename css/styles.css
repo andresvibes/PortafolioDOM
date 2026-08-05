@@ -82,7 +82,7 @@ html{
 }
 
 .container-img img {
-    width: 99%;
+    width: 10%;
     height: 99%;
     object-fit: cover; 
 }
